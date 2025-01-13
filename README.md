@@ -1,9 +1,9 @@
 # PHP Number to words converter
 
-[![CircleCI](https://dl.circleci.com/status-badge/img/gh/kwn/number-to-words/tree/master.svg?style=shield)](https://dl.circleci.com/status-badge/redirect/gh/kwn/number-to-words/tree/master)
-[![Code Climate](https://codeclimate.com/github/kwn/number-to-words/badges/gpa.svg)](https://codeclimate.com/github/kwn/number-to-words)
-[![Test Coverage](https://codeclimate.com/github/kwn/number-to-words/badges/coverage.svg)](https://codeclimate.com/github/kwn/number-to-words/coverage)
-[![Latest Stable Version](https://poser.pugx.org/kwn/number-to-words/v/stable)](https://packagist.org/packages/kwn/number-to-words)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/jcabanillas/number-to-words/tree/master.svg?style=shield)](https://dl.circleci.com/status-badge/redirect/gh/jcabanillas/number-to-words/tree/master)
+[![Code Climate](https://codeclimate.com/github/jcabanillas/number-to-words/badges/gpa.svg)](https://codeclimate.com/github/jcabanillas/number-to-words)
+[![Test Coverage](https://codeclimate.com/github/jcabanillas/number-to-words/badges/coverage.svg)](https://codeclimate.com/github/jcabanillas/number-to-words/coverage)
+[![Latest Stable Version](https://poser.pugx.org/jcabanillas/number-to-words/v/stable)](https://packagist.org/packages/jcabanillas/number-to-words)
 
 Welcome to `number-to-words`, a PHP utility that seamlessly transforms numeric values into their corresponding words. Effortlessly convert numbers, such as 123, into expressive and readable formats like "one hundred and twenty-three" with just a few lines of code.
 
@@ -12,7 +12,7 @@ Welcome to `number-to-words`, a PHP utility that seamlessly transforms numeric v
 Add package to your composer.json by running:
 
 ```
-$ composer require kwn/number-to-words
+$ composer require jcabanillas/number-to-words
 ```
 
 ## Usage
@@ -116,7 +116,7 @@ Note: The Currency Transformer within this library processes integers; ensure yo
 
 ## Contributors
 
-Some transformers were ported from the `pear/Numbers_Words` library. Others were created by [contributors](https://github.com/kwn/number-to-words/graphs/contributors). Thank you!
+Some transformers were ported from the `pear/Numbers_Words` library. Others were created by [contributors](https://github.com/jcabanillas/number-to-words/graphs/contributors). Thank you!
 
 ## Version 2.x - BC and major changes
 
